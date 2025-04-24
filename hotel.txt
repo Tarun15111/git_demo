@@ -1,0 +1,3 @@
+Hotel names: 
+1) Innotel
+2) Novotel
